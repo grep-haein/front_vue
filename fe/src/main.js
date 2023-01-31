@@ -6,7 +6,8 @@ import './assets/common.css'
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
-import axios from 'axios'
+// import axios from 'axios'
+import axios from './utils/axios'
 import store from './vuex/store'  //1. store 추가
 
 // createApp(App).mount('#app')
