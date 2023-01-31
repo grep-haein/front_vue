@@ -1,1 +1,2 @@
-# front_vue
+# cd fe
+# npm run serve
